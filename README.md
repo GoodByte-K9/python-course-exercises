@@ -1,2 +1,2 @@
-# learning-projects
-Projects that taught me development
+# Python Course Exercises
+Projects that taught me Python
