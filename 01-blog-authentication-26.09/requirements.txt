@@ -9,3 +9,5 @@ flask_sqlalchemy
 SQLAlchemy
 python-dotenv
 gunicorn
+psycopg2-binary
+email_validator
